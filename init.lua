@@ -64,6 +64,30 @@ the_shire_doors = {
         gain_close = 0.5,
         key_item = "the_shire:hobbit_door_key",
     },
+    ["hobbit_door_blue_wood"] = {
+        description = "Hobbit Door Blue Wood",
+        texture = "hobbit_door_blue_wood.png",
+        knob_texture = "hobbit_brass.png",
+        groups = { choppy = 2, oddly_breakable_by_hand = 2, flammable = 2 },
+        sounds = default.node_sound_wood_defaults(),
+        sound_open = "hobbit_door_open",
+        sound_close = "hobbit_door_close",
+        gain_open = 0.5,
+        gain_close = 0.5,
+        key_item = "the_shire:hobbit_door_key",
+    },
+    ["hobbit_door_green_wood"] = {
+        description = "Hobbit Door Green Wood",
+        texture = "hobbit_door_green_wood.png",
+        knob_texture = "hobbit_brass.png",
+        groups = { choppy = 2, oddly_breakable_by_hand = 2, flammable = 2 },
+        sounds = default.node_sound_wood_defaults(),
+        sound_open = "hobbit_door_open",
+        sound_close = "hobbit_door_close",
+        gain_open = 0.5,
+        gain_close = 0.5,
+        key_item = "the_shire:hobbit_door_key",
+    },
 }
 
 minetest.register_node("the_shire:hidden_protector", {
