@@ -1,0 +1,70 @@
+========================================================================
+LICENSES AND CREDITS FOR THE SHIRE MOD
+========================================================================
+
+This project uses a mixed licensing structure to cover unique code, 
+community media assets, and modified elements from the Minetest Game 
+engine.
+
+------------------------------------------------------------------------
+1. CODE LICENSING
+------------------------------------------------------------------------
+
+Custom Code Sections (MIT License)
+----------------------------------
+All original programming structures, table iterations, layout arrays, 
+and door locking logic created uniquely for this mod are licensed 
+under the MIT License.
+
+Copyright (c) 2015-2026 TumeniNodes
+
+Permission is hereby granted, free of charge, to any person obtaining 
+a copy of this software and associated documentation files (the 
+"Software"), to deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to 
+the following conditions:
+
+The above copyright notice and this permission notice shall be 
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+Copied or Modified Minetest Game Code (LGPL 2.1)
+------------------------------------------------
+Sections of code copied or modified directly from the Minetest Game 
+core files (including original sound setups, default sound calls, and 
+baseline plant/stair logic rules) remain property of the Minetest 
+Development Team and contributors. 
+
+These sections are bound to their original license: 
+GNU Lesser General Public License version 2.1 (LGPL-2.1).
+
+Full license text details can be viewed online at: 
+https://gnu.org
+
+------------------------------------------------------------------------
+2. MEDIA LICENSING (CC-BY-SA 4.0)
+Copyright (c) 2015-2016 TumeniNodes
+------------------------------------------------------------------------
+
+All visual and physical media files included in this mod directory—
+including 3D .obj mesh files exported from Blockbench and flat .png 
+image canvas textures—are licensed under the Creative Commons 
+Attribution-ShareAlike 4.0 International License.
+
+* Attribution: You must give appropriate credit to the original creator.
+* ShareAlike: If you remix, transform, or build upon these assets, 
+  you must distribute your contributions under the exact same license.
+
+Full license text details can be viewed online at: 
+https://creativecommons.org
+

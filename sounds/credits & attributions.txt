@@ -1,0 +1,66 @@
+=======================================================================================================
+    hobbit_door_close.ogg (CC0) derivative by TumeniNodes
+    hobbit_door_open.ogg (CC0) derivative by TumeniNodes
+
+Source Files:
+
+Door, opening #3
+https://bigsoundbank.com/door-opening-3-s2430.html
+You are allowed to:
+
+    Share, copy, distribute and communicate the material by all means and in all formats.
+    Adapt, remix, transform and create from material.
+    Use, including for commercial purposes.
+    Without any restrictions.
+    Without asking permission.
+
+This is:
+
+    Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Technical details
+
+Length: 00:02
+UCS Category: Doors / Plastic (DOORPlas)
+Type: Alone sound
+Channels: Monophonic
+Conditions: Indoor
+Realism: Realistic
+Sampling Rate: 48,000 Hz
+Bit Depth: 24 bits
+Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+Author: Joseph SARDIN
+Sound number: 2,430
+
+==========================================================================================
+
+Door, closing #3
+https://bigsoundbank.com/door-closing-3-s2433.html
+You are allowed to:
+
+    Share, copy, distribute and communicate the material by all means and in all formats.
+    Adapt, remix, transform and create from material.
+    Use, including for commercial purposes.
+    Without any restrictions.
+    Without asking permission.
+
+This is:
+
+    Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Technical details
+
+Length: 00:02
+UCS Category: Doors / Plastic (DOORPlas)
+Type: Alone sound
+Channels: Monophonic
+Conditions: Indoor
+Realism: Realistic
+Sampling Rate: 48,000 Hz
+Bit Depth: 24 bits
+Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+Author: Joseph SARDIN
+Sound number: 2,433
+
