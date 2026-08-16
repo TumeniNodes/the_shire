@@ -31,10 +31,16 @@ This mod adds simple hobbit-themed decorations and structures to your Minetest o
 
 ---
 
-## Credits
+---
 
-* All code rules and block templates are free to use and modify.
-* All custom 3D shapes and layout measurements were built using Blockbench.
+## Legal Disclaimer and Trademark Notice
+
+This project is an unofficial, non-profit, fan-made mod creation.
+
+"The Hobbit", "The Lord of the Rings", and the names of characters, items, and settings therein are registered trademarks or copyrights of Middle-earth Enterprises and/or the Tolkien Estate.
+
+This mod claims no ownership over these intellectual properties, receives no financial compensation, and is developed purely for educational and community entertainment purposes under fair use fan guidelines.
+
 
 ![Hobbit Doors & Windows](screenshots/Screenshot_01.png)
 
