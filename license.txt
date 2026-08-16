@@ -54,6 +54,30 @@ https://gnu.org
 ------------------------------------------------------------------------
 2. MEDIA LICENSING (CC-BY-SA 4.0)
 Copyright (c) 2015-2016 TumeniNodes
+
+textures:
+hobbit_brass.png
+hobbit_door_acacia_wood.png (a derivitative of default_acacia_wood.png, etc for rest of the door textures by various Minetest Game contributors)
+hobbit_door_aspen_wood.png
+hobbit_door_junglewood.png
+hobbit_door_key.png
+hobbit_door_pine_wood.png
+hobbit_door_wood.png
+shire_pathstones.png (a derivative of defaul_cobble from Minetest Game)
+shire_vines.png
+shire_vines_bloom.png
+
+models:
+hobbit_door.obj
+hobbit_door_half.obj
+hobbit_door_open.obj
+hobbit_window.obj
+shirelike.obj
+
+sounds:
+hobbit_door_close.ogg
+hobbit_door_open.ogg
+(see attribution & credits list)
 ------------------------------------------------------------------------
 
 All visual and physical media files included in this mod directory—
