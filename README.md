@@ -36,3 +36,6 @@ This mod adds simple hobbit-themed decorations and structures to your Minetest o
 * All code rules and block templates are free to use and modify.
 * All custom 3D shapes and layout measurements were built using Blockbench.
 
+![Hobbit Doors & Windows](Screenshot_01.png)
+
+![A hobbits home in the Shire](Screenshot_02.png)
