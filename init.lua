@@ -272,7 +272,7 @@ minetest.register_craft({
 -- ==============
 
 local hobbit_windows = {
-    ["desert_sandstone_wood"] = {
+	["desert_sandstone_wood"] = {
         desc = "Desert Sandstone & Wood Hobbit Window",
         glass = "default_wood.png",
         frame = "default_desert_sandstone.png"
@@ -296,6 +296,56 @@ local hobbit_windows = {
         desc = "Desert Sandstone & Aspen Hobbit Window",
         glass = "default_aspen_wood.png",
         frame = "default_desert_sandstone.png"
+    },
+	["sandstone_wood"] = {
+        desc = "Sandstone & Wood Hobbit Window",
+        glass = "default_wood.png",
+        frame = "default_sandstone.png"
+    },
+    ["sandstone_acacia"] = {
+        desc = "Sandstone & Acacia Hobbit Window",
+        glass = "default_acacia_wood.png",
+        frame = "default_sandstone.png"
+    },
+    ["sandstone_junglewood"] = {
+        desc = "Sandstone & Junglewood Hobbit Window",
+        glass = "default_junglewood.png",
+        frame = "default_sandstone.png"
+    },
+    ["sandstone_pine"] = {
+        desc = "Sandstone & Pine Hobbit Window",
+        glass = "default_pine_wood.png",
+        frame = "default_sandstone.png"
+    },
+    ["sandstone_aspen"] = {
+        desc = "Sandstone & Aspen Hobbit Window",
+        glass = "default_aspen_wood.png",
+        frame = "default_sandstone.png"
+    },
+    ["silver_sandstone_wood"] = {
+        desc = "Silver Sandstone & Wood Hobbit Window",
+        glass = "default_wood.png",
+        frame = "default_silver_sandstone.png"
+    },
+    ["silver_sandstone_acacia"] = {
+        desc = "Silver Sandstone & Acacia Hobbit Window",
+        glass = "default_acacia_wood.png",
+        frame = "default_silver_sandstone.png"
+    },
+    ["silver_sandstone_junglewood"] = {
+        desc = "Silver Sandstone & Junglewood Hobbit Window",
+        glass = "default_junglewood.png",
+        frame = "default_silver_sandstone.png"
+    },
+    ["silver_sandstone_pine"] = {
+        desc = "Silver Sandstone & Pine Hobbit Window",
+        glass = "default_pine_wood.png",
+        frame = "default_silver_sandstone.png"
+    },
+    ["silver_sandstone_aspen"] = {
+        desc = "Silver Sandstone & Aspen Hobbit Window",
+        glass = "default_aspen_wood.png",
+        frame = "default_silver_sandstone.png"
     }
 }
 
