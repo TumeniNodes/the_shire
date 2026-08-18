@@ -519,6 +519,20 @@ minetest.register_craft({
 -- CUSTOM MESH SHIRE GRASS 1-5
 -- ===========================
 
+--[[
+    The Shire - Grass Nodes Mod
+    Copyright (C) 2026 [TumeniNodes]
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation; either version 2.1 of the License, or
+    (at your option) any later version.
+
+    Portions of this file are modified from Minetest Game (mods/default/nodes.lua)
+    Copyright (C) 2010-2022 Minetest Game Contributors
+    Licensed under the GNU LGPL v2.1 or later.
+--]]
+
 -- SHIRE GRASS 1
 minetest.register_node("the_shire:shire_grass_1", {
     description = "Shire Grass",
